@@ -1,3 +1,7 @@
+
+![SentinelLogo-modified](https://github.com/TrentaFX2/Sentinel/assets/112093781/7adfd4e6-e619-45a9-bc34-87f9ddcd64fa)
+
+
 # Sentinel Admin
 
 Sentinel is an administrative game system that can easily manage your game. We offer a huge load of commands as well as the ability to create plugins for your system and so much more. Sentinel is striving to be the best Admin System out there. Sentinel was created by TrentaFX (@maffy666).
