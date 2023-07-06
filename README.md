@@ -52,6 +52,19 @@ RemoteEvent:FireClient(Player, 'List', {'Server Admins', Index, true})
 ```
 
 -----
+### Notifications
+
+```lua
+RemoteEvent:FireClient(<Recipient: instance>, 'Notif', {<Title: string>, <Description: string>})
+```
+
+**Example Usage:**
+
+```lua
+RemoteEvent:FireClient(Player, 'Notif', {'Cool Stuff', 'Hey world, this is a notification'})
+```
+
+-----
 ### Personal Message (PM)
 
 ```lua
