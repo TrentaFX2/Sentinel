@@ -45,7 +45,7 @@ local Index = {}
 table.insert(Index, {
 ['Name'] = 'Name Here',
 ['Description'] = 'Description Here',
-['Time'] = 'Other Info here' --// Remote this line if no other info is to be displayed
+['Extra'] = 'Other Info here' --// Remote this line if no other info is to be displayed
 })
 
 RemoteEvent:FireClient(Player, 'List', {'Server Admins', Index, true})
